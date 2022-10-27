@@ -5,6 +5,7 @@ Source Code of Discord bot for https://keyauth.cc
 https://www.oracle.com/cloud/free/ free forever, watch video for tutorial https://www.youtube.com/watch?v=90JbCrB3m3I
 
 
+[![Run on Repl.it](https://replit.com/badge/github/ABHASH1720/KeyAuth-Discord-Bot.git)](https://replit.com/new/github/ABHASH1720/KeyAuth-Discord-Bot.git)
 
 ###### Installation
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oJzMVIM3kbk
